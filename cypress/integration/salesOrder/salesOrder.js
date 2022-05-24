@@ -33,6 +33,7 @@ describe('Sales Order',()=> {
 	it('User can create new Customer on sales order page',()=>{
 
 		sales.navigateToSalesOrder();
+		sales.fetchUser(salesData.firstName2,salesData.lastName2);
 		cy.contains(salesLocator.optionValue, 'Create new "'+ salesData.firstName2+' '+salesData.lastName2+'"').click();
 		cy.findByText(salesData.dataSaved).should('be.visible');
 	})
