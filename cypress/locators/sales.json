@@ -1,0 +1,18 @@
+{
+  "sellIcon": "[id='salesTab']",
+  "salesListing": "[id='KatanaGridContainer']",
+  "salesOrder": "#add-sales",
+  "customer": ".MuiAutocomplete-root > .MuiFormControl-root > .MuiInputBase-root",
+  "addressLine1": "address-field-name",
+  "addressLine2": "address-field-location",
+  "addressLine3": "address-field-phone",
+  "salesOrderHeader": "header-name-salesOrder",
+  "dropdown": "variant-cell-renderer",
+  "dropdownValue": "span",
+  "userLoadingIcon": ".MuiCircularProgress-svg",
+  "selectOption": "[class=\"MuiAutocomplete-option\"]>span",
+  "optionValue": "li",
+  "billingAddress": "inputSalesOrderBillingAddress",
+  "shippingAddress": "inputSalesOrderShippingAddress"
+
+}

@@ -1,0 +1,28 @@
+{
+"billingAddressDetails":{
+    "firstName": "BillFN1",
+    "lastName": "BillLN1",
+    "company" : "Company1",
+    "addressTitle": "Billing Address",
+    "addressLine1": "Address Line 1",
+    "addressLine2": "Address Line 2",
+    "city": "Tallinn",
+    "state": "Tallinn",
+    "zip": "10111",
+    "country": "Estonia",
+    "phone": "+372 11110000"
+  },
+  "shippingAddressDetails":{
+    "firstName": "shipFN1",
+    "lastName": "ShipLN1",
+    "company" : "Company2",
+    "addressTitle": "Shipping Address",
+    "addressLine1": "Address Line 3",
+    "addressLine2": "Address Line 4",
+    "city": "Tallinn city",
+    "state": "Tallinn state",
+    "zip": "10112",
+    "country": "Estonia",
+    "phone": "+372 11110001"
+  }
+ }

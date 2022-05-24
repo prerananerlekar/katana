@@ -1,0 +1,11 @@
+{
+  "name": "katana",
+  "scripts": {
+    "cypress-open": "cypress open",
+    "cypress-run": "cypress run"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.6.1"
+  }
+}

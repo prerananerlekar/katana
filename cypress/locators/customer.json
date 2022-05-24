@@ -1,0 +1,34 @@
+{
+  "addCustomerButton": "#add-customer",
+  "firstName": "inputCustomerFirstName",
+  "lastName": "inputCustomerLastName",
+  "companyName": "inputCustomerCompany",
+  "displayName": "[name=\"name\"]",
+  "headerName": "header-name-customer",
+  "billingAddress": "inputCustomerDefaultBillingAddress",
+  "addressDetails":{
+    "addressDialogLocator": "[class=\"MuiDialogContent-root\"]",
+    "addressHeader": "h2",
+    "firstName": "[name=\"firstName\"]",
+    "lastName": "[name=\"lastName\"]",
+    "companyName": "[name=\"company\"]",
+    "addressLine1": "[name=\"line1\"]",
+    "addressLine2": "[name=\"line2\"]",
+    "city": "[name=\"city\"]",
+    "state": "[name=\"state\"]",
+    "zip": "[name=\"zip\"]",
+    "phone": "[name=\"phone\"]",
+    "country": "[name=\"country\"]",
+    "submitAddress": "#submitButton",
+    "cancel": "#cancelButton",
+    "removeAddress": "#removeAddress"
+  },
+  "contactInformation": "textContactInformation",
+  "addressInformation": "textAddressInformation",
+  "phoneInformation": "textPhoneInformation",
+  "defaultShippingAddress": "[name=\"defaultShippingAddress\"]",
+  "shippingAddress": "inputCustomerDefaultShippingAddress"
+
+
+
+}
